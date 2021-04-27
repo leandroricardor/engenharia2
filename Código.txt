@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int raio;
+    float pi = 3.14;
+    float area, perimetro;
+    
+    cout << "digite o valor do raio: ";
+    cin >> raio;
+    
+    area = pi * (raio * raio);
+    cout << "A area da circunferencia e: " << area << endl;
+    
+    perimetro = (2 * pi) * raio;
+    cout << "O perimetro da circinferencia e: "<< perimetro <<endl;
+    
+
+    return 0;
+}

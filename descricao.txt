@@ -1,0 +1,8 @@
+#DEFINIÇÃO
+Na geometria euclidiana, uma circunferência é o lugar geométrico dos pontos de um plano que equidistam de um ponto fixo.
+
+#CÁLCULO DA ÁREA
+Para realizar o cálculo da área é necessário a medida do raio. Com isso em mãos o próximo passo é multiplicar pi * (raio elevado ao quadrado) . O resultado será a área da circunferencia.
+
+#CÁLCULO DO PERÍMETRO
+Para realizar o cálculo do perímetro de uma circunferencia também será necessário ter a medida do raio. O resultado do perímetro será (2 * pi) * raio.
