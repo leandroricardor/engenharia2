@@ -7,4 +7,4 @@ Um retângulo é um quadrilátero que possui todos os ângulos internos com medi
 Para realizar o cálculo da área é necessário a medida da base e a medida da altura. Com isso em mãos o próximo passo é fazer a multiplicação desses dois valores. O resultado será a área do retângulo que se dará em metros quadrados m².
 
 #CÁLCULO DO PERÍMETRO
-Para realizar o cálculo do perímetro de um retângulo também será necessário ter as medidas da base e da altura. O resultado do perímetro será a base somada com a altura.
+Para realizar o cálculo do perímetro de um retângulo também será necessário ter as medidas da base e da altura. O valor do perímetro será a base somada com a altura e o resultado multiplicado por 2.
